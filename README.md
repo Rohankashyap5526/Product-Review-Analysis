@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Customer Behavior Prediction using Machine Learning
 
 > An end-to-end data science project covering data generation, cleaning,
@@ -205,3 +206,6 @@ CSV exports in `visualizations/` and build four worksheets:
 
 Built as a complete end-to-end Data Science portfolio project.  
 Dataset is synthetically generated for demonstration purposes.
+=======
+# Product-Review-Analysis
+>>>>>>> 625aa126e2eee642c8d34ca9775ecb82725e3677
