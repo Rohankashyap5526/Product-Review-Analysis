@@ -205,7 +205,7 @@ CSV exports in `visualizations/` and build four worksheets:
 ## 👤 Author
 
 Built as a complete end-to-end Data Science portfolio project.  
-Dataset is synthetically generated for demonstration purposes.
+Datasets is synthetically generated for demonstration purposes.
 =======
 # Product-Review-Analysis
 >>>>>>> 625aa126e2eee642c8d34ca9775ecb82725e3677
